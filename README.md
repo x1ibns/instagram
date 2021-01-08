@@ -1,2 +1,1 @@
-# meu-instagram 
-# instagram
+# Minha página inicial do Instagram onde o body tem a cor rosada em homenagem às nossas mulheres que têm tanto valor para todos nós , modifiquei para que as imagens da Google Play Store e Apple Store encaminhem os cliques para os sites reais e o botão inscreva-se encaminhe para a pagina de inscrição real do site real do Instagram .
